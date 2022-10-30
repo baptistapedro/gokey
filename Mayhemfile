@@ -1,0 +1,6 @@
+project: cloudflare-gokey
+target: cloudflare-gokey
+
+cmds:
+  - cmd: /fuzz_setdefault
+    env: {}
